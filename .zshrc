@@ -1,0 +1,8 @@
+alias gc="git clone"
+alias nv="nvim"
+alias g="git"
+alias c="clear"
+alias "rsh"="source ~/.zshrc"
+alias ls="ls -a"
+alias rskhd="skhd --restart-service"
+alias ryabai="yabai --restart-service"
