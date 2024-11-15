@@ -30,3 +30,6 @@ shift + alt - right : yabai -m window --swap east
 # Fullscreen window
 alt - f : yabai -m window --toggle zoom-fullscreen
 
+#Display Switch
+ctrl + alt - j  : yabai -m display --focus 1
+ctrl + alt - k  : yabai -m display --focus 2
